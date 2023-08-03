@@ -4,7 +4,7 @@
 
 This is the content of the section.
 
-<hr>
+<hr style="border: 0.5px solid white">
 
 ## Another Section
 
