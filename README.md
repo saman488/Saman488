@@ -4,7 +4,7 @@
 
 This is the content of the section.
 
-<hr style="border: 0.5px solid white">
+<hr style="border: 0.25px solid white">
 
 #### Experience
 
