@@ -1,6 +1,7 @@
 <h1 align="center">  Hey there! 👋 Welcome to My Coding Universe! 🌌<br/> </h1>
 
-##  📜 About Me
+## 🌟 About Me:
+I'm a passionate developer with a thirst for innovation and impact. My coding journey started with curiosity, and now it's a relentless pursuit of knowledge and new challenges.
 
 🎓 **Graduated** in **Computer Science** at Kingston University London (2019).
 
