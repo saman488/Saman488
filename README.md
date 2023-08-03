@@ -19,6 +19,6 @@
 
 # Competitive Coding Profile #
 [![Hackerrank]
-[![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-davidepollicino-green)](https://auth.geeksforgeeks.org/user/saman1sa69)
+[![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-saman1sa69-green)](https://auth.geeksforgeeks.org/user/saman1sa69)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/Saman488/)
 [![CodeForces]
