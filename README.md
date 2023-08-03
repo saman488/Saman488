@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My Awesome Section
+### My Awesome Section
 
 This is the content of the section.
 
