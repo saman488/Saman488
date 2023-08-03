@@ -16,7 +16,8 @@ I'm a passionate developer with a thirst for innovation and impact. My coding jo
 
 <hr>
 
-# Experience
+## 🥋 Connect with Me:
+When not immersed in coding or training, I enjoy the balance of life through meditation and martial arts practice. Connect with me on [LinkedIn](https://www.linkedin.com/in/samzobeiry/) or [Twitter](https://twitter.com/your-handle) to share the path of code and martial arts.
 
 # Competitive Coding Profile #
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerrank.com/zobeirysaman?hr_r=1)
