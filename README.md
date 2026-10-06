@@ -8,16 +8,14 @@ Before moving further into data and ML, I studied Computer Science at Kingston U
 
 ## Featured work
 
-### Federated Learning for Network Intrusion Detection
+### Federated Learning for Intrusion Detection under Label Skew
 [View repository](https://github.com/saman488/msc_fl_project)
 
-My MSc research project explores federated learning for network intrusion detection using the **NF-UNSW-NB15-v2** and **NF-CSE-CIC-IDS2018-v2** datasets.
+Investigated how **measured client label heterogeneity affects federated intrusion detection under severe class imbalance**. Built a reproducible five-client experimental pipeline across **NF-UNSW-NB15-v2** and **NF-CSE-CIC-IDS2018-v2**, generated controlled non-IID label-skew partitions, quantified the resulting heterogeneity using **pairwise Hellinger Distance (HD-RMS)**, and analysed its effect on overall and per-class detection performance.
 
-- Implemented and evaluated **FedAvg, FedProx and SCAFFOLD**
-- Compared federated models with centralised MLP baselines
-- Tested IID and non-IID client data distributions
-- Built preprocessing, training, validation and held-out test evaluation workflows
-- Worked with **Python, PyTorch, scikit-learn, pandas, NumPy and FedArtML**
+The study found that severe label skew substantially degraded attack detection, while partitions with similar heterogeneity scores could still produce different outcomes because of their underlying class-allocation structure.
+
+**Tools:** Python, PyTorch, scikit-learn, pandas, NumPy, FedArtML
 
 ### Deep Learning — CIFAR-10
 [View repository](https://github.com/saman488/ECS7026P_NeuralNetworks_AJ)
