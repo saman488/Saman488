@@ -2,7 +2,7 @@
 
 **Data Science MSc | Machine Learning | Software Engineering**
 
-I'm based in London. My recent work comes from an MSc in Data Science at Queen Mary University of London (2025–2026), where I focused on machine learning, deep learning, statistics and large-scale data processing.
+I'm based in London. My recent work comes from an MSc in Data Science at Queen Mary University of London (2025–2026), where I focused on machine learning, deep learning, statistics and Big data processing.
 
 Before moving further into data and ML, I studied Computer Science at Kingston University London and worked on software projects across backend APIs, web applications and cloud services.
 
