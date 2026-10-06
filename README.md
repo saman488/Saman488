@@ -20,9 +20,11 @@ The study found that severe label skew substantially degraded attack detection, 
 ### Neural Networks & Deep Learning — CIFAR-10 and AG News
 [View repository](https://github.com/saman488/ECS7026P_NeuralNetworks_AJ)
 
-Group project built around two parts: implementing and improving a prescribed adaptive multi-branch CNN for **CIFAR-10**, followed by an open-ended neural-network experiment using a model and dataset of our choice. The enhanced CIFAR-10 model reached **92.65% test accuracy** after iterative architecture and training improvements.
+Group project built around two parts: implementing and improving a prescribed adaptive multi-branch CNN for **CIFAR-10**, followed by an open-ended neural-network experiment using a model and dataset of our choice.
 
-My Part 2 work focused on **data efficiency and representation in text classification**. I built a **TextCNN** pipeline for **AG News**, comparing randomly initialised, **GloVe** and **FastText** embeddings across training subsets from **1% to 100%** of the data. I then extended the experiments to short-context classification, testing fixed word budgets and different word-selection strategies to measure how much useful context the model could lose while retaining classification performance.
+I contributed substantially to the **CIFAR-10 architecture and experimentation**, including iterative testing of Batch Normalisation, Dropout, MaxPooling, wider and deeper channel configurations, Softmax-based branch weighting, data augmentation, and optimiser/scheduler choices. The final enhanced model reached **92.65% test accuracy**.
+
+My Part 2 work focused on **data efficiency and representation in text classification**. I built a **TextCNN** pipeline for **AG News**, comparing randomly initialised, **GloVe** and **FastText** embeddings across training subsets from **1% to 100%** of the data. I then extended the experiments to short-context classification, testing different word budgets and word-selection strategies to examine how much context could be removed while retaining classification performance.
 
 **Evaluation:** accuracy, Macro-F1, per-class F1, confusion matrices, confidence intervals, training time and inference time  
 **Tools:** Python, PyTorch, scikit-learn, pandas, NumPy, GloVe, FastText
