@@ -1,42 +1,47 @@
 # Saman Zobeiry
 
-**Data Science MSc | Machine Learning | Software Engineering**
+**MSc Data Science | Machine Learning | Software Engineering**
 
-I'm based in London. My recent work comes from an MSc in Data Science at Queen Mary University of London (2025–2026), where I focused on machine learning, deep learning, statistics and Big data processing.
+Based in London. I completed an MSc in Data Science at Queen Mary University of London (2025–2026), with recent work in machine learning, deep learning, statistical analysis, data mining and federated learning. I also hold a BSc in Computer Science from Kingston University London.
 
-Before moving further into data and ML, I studied Computer Science at Kingston University London and worked on software projects across backend APIs, web applications and cloud services.
-
-## Featured work
+## Selected projects
 
 ### Federated Learning for Intrusion Detection under Label Skew
 [View repository](https://github.com/saman488/msc_fl_project)
 
-Investigated how **measured client label heterogeneity affects federated intrusion detection under severe class imbalance**. Built a reproducible five-client experimental pipeline across **NF-UNSW-NB15-v2** and **NF-CSE-CIC-IDS2018-v2**, generated controlled non-IID label-skew partitions, quantified the resulting heterogeneity using **pairwise Hellinger Distance (HD-RMS)**, and analysed its effect on overall and per-class detection performance.
-
-The study found that severe label skew substantially degraded attack detection, while partitions with similar heterogeneity scores could still produce different outcomes because of their underlying class-allocation structure.
+Investigated how **measured client label heterogeneity affects federated intrusion detection under severe class imbalance**. Built a five-client experimental pipeline across **NF-UNSW-NB15-v2** and **NF-CSE-CIC-IDS2018-v2**, generated controlled non-IID partitions, quantified heterogeneity with **pairwise Hellinger Distance (HD-RMS)**, and analysed its effect on overall and per-class detection performance.
 
 **Tools:** Python, PyTorch, scikit-learn, pandas, NumPy, FedArtML
 
 ### Neural Networks & Deep Learning — CIFAR-10 and AG News
 [View repository](https://github.com/saman488/ECS7026P_NeuralNetworks_AJ)
 
-Group project built around two parts: implementing and improving a prescribed adaptive multi-branch CNN for **CIFAR-10**, followed by an open-ended neural-network experiment using a model and dataset of our choice.
+Contributed to the design and refinement of an adaptive multi-branch CNN for **CIFAR-10**, testing architectural and training changes including Batch Normalisation, Dropout, MaxPooling, Softmax-based branch weighting, data augmentation and learning-rate scheduling. The final model reached **92.65% test accuracy**.
 
-I contributed substantially to the **CIFAR-10 architecture and experimentation**, including iterative testing of Batch Normalisation, Dropout, MaxPooling, wider and deeper channel configurations, Softmax-based branch weighting, data augmentation, and optimiser/scheduler choices. The final enhanced model reached **92.65% test accuracy**.
+Built a **TextCNN** pipeline for **AG News**, comparing random, **GloVe** and **FastText** embeddings across training subsets from **1% to 100%**, then extended the analysis to short-context classification with different word-selection strategies.
 
-My Part 2 work focused on **data efficiency and representation in text classification**. I built a **TextCNN** pipeline for **AG News**, comparing randomly initialised, **GloVe** and **FastText** embeddings across training subsets from **1% to 100%** of the data. I then extended the experiments to short-context classification, testing different word budgets and word-selection strategies to examine how much context could be removed while retaining classification performance.
-
-**Evaluation:** accuracy, Macro-F1, per-class F1, confusion matrices, confidence intervals, training time and inference time  
 **Tools:** Python, PyTorch, scikit-learn, pandas, NumPy, GloVe, FastText
 
-### Dating Web Application
-[View repository](https://github.com/saman488/DatingApp)
+### Data Mining Techniques
+[View repository](https://github.com/saman488/data-mining-techniques)
 
-Full-stack web application built with **C#, ASP.NET Core, Angular and REST APIs**.
+Implemented a set of data-mining workflows covering **association-rule evaluation, anomaly detection, dimensionality reduction, web-data extraction and document clustering**. The work includes the Kulczynski measure, **One-Class SVM** on stock returns, **PCA with k-nearest-neighbour outlier scoring**, BeautifulSoup-based table extraction, and **TF-IDF + K-Means** clustering with elbow analysis.
 
-## Tech I work with
+**Tools:** Python, pandas, NumPy, scikit-learn, Matplotlib, BeautifulSoup
 
-**Data & ML:** Python, PyTorch, scikit-learn, pandas, NumPy, Matplotlib  
+### Applied Statistical Analysis
+[View repository](https://github.com/saman488/software-vulnerability-severity-exploitation-likelihood-)
+
+Applied numerical and inferential statistics to probability distributions, financial returns and software-vulnerability data. Work includes numerical convolution, Gamma sample-mean distributions, maximum-likelihood estimation, and analysis of **CVSS severity** against **EPSS exploitation likelihood** using correlation, regression, residual diagnostics and independence testing.
+
+**Tools:** Python, NumPy, pandas, SciPy, Matplotlib
+
+### Software Engineering
+[Dating Web Application](https://github.com/saman488/DatingApp) — full-stack application built with **C#, ASP.NET Core, Angular and REST APIs**.
+
+## Technical skills
+
+**Data & ML:** Python, PyTorch, scikit-learn, pandas, NumPy, SciPy, Matplotlib  
 **Software:** C#, Java, ASP.NET Core, Angular, Node.js, REST APIs  
 **Tools & Cloud:** Git, GitHub, AWS
 
